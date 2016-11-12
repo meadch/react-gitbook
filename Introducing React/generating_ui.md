@@ -36,4 +36,8 @@ function UICreator(){
 }
 ```
 
-That's the core idea we'll be building upon throughout this course.
+That's the core idea we'll be building upon throughout this course. It's a strategy that's based on **components** rather than templates, a subject we'll explore more later.
+
+Why is that better? Proponents argue that by breaking down our app into functional pieces rather than by technology (HTML vs. JavaScript controller), we have a codebase in which it’s easy to reuse small pieces. And a lot of developers argue that unifying markup with our logic makes things a lot easier to maintain.
+
+That ends our brief high-level overview of React -- let's start digging into some code!
