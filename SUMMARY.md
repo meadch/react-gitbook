@@ -5,5 +5,5 @@
    * [Introduction](Introducing React/introduction.md)
    * [From State to UI](Introducing React/from_state_to_ui.md)
    * [Generating UI](Introducing React/generating_ui.md)
-* Dependencies
+* [Dependencies](Dependencies/README.md)
 
