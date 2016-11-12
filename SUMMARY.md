@@ -1,4 +1,4 @@
 # Summary
 
-* Introducing React
+* [Introducing React](Introducing React/README.md)
 
