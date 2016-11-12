@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introducing React](Introducing React/README.md)
-   * Introduction
+   * [Introduction](Introducing React/introduction.md)
 
