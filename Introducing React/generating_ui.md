@@ -42,5 +42,13 @@ That's the core idea we'll be building upon throughout this course. It's a strat
 
 Why is that better? Proponents argue that by breaking down our app into functional pieces rather than by technology \(HTML vs. JavaScript controller\), we have a codebase in which it’s easy to reuse small pieces.
 
+## React is a library
+
+That means it cares about this job -- translating data into UI -- and doesn't have an opinion about other aspects of your applications, such as:
+
+* How you make Ajax calls
+* How you organize the data that makes up your application state
+* How you deal with routing
+
 That ends our brief high-level overview of React -- let's start digging into some code!
 
