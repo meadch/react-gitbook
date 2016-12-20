@@ -9,6 +9,6 @@
 * [Dependencies](Dependencies/README.md)
 
 ## Presentation
-* [Intro](slideshow.md)
-    * [From State to UI](intro.md)
+* [Intro](Presentation/intro.md)
+* [From State to UI](Presentation/state_to_UI.md)
 

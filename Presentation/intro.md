@@ -1,8 +1,6 @@
-# Intro to React
+# React
 
----
-
-## Basic prerequisites
+## Basic Prerequisites
 
 > If you've taken MEAN, you're good to go
 
