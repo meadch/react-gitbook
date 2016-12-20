@@ -8,11 +8,6 @@
     * [Generating UI](Introducing React/generating_ui.md)
 * [Dependencies](Dependencies/README.md)
     * [React & ReactDOM](Dependencies/react--reactdom.md)
-
-## Presentation
-* Slideshow
-    * [Intro](Slideshow/intro.md)
-    * [From State to UI](Presentation/state_to_UI.md)
-    * [Todo State](Presentation/todo-state.md)
-    * [Generate UI](Presentation/generate_ui.md)
+* [Slideshow](Slideshow/README.md)
+    * [Intro](intro.md)
 
