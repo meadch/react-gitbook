@@ -9,6 +9,7 @@
 * [Dependencies](Dependencies/README.md)
     * [React & ReactDOM](Dependencies/react--reactdom.md)
 * [Slideshow](Slideshow/README.md)
+    * [Outline](Slideshow/outline.md)
     * [Intro](Slideshow/intro.md)
     * [What is State](Slideshow/what-is-state.md)
     * [Todo State](Slideshow/todo-state.md)
