@@ -33,10 +33,12 @@ We're going to be writing our UI exclusively with JavaScript, instead of mixing 
 ```js
 function UICreator(specialProperties){
   return (
-    createDOMElement('h1', specialProperties, 'Hello World');
+    someDOMElements('h1', specialProperties, 'Hello World');
   )
 }
 ```
+
+## \`f \(data\) =&gt; UI\`
 
 That's the core idea we'll be building upon throughout this course. It's a strategy that's based on **components** rather than templates, a subject we'll explore more later.
 
