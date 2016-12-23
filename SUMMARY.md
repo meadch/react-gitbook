@@ -12,6 +12,7 @@
     * [Outline](Slideshow/outline.md)
     * [Intro](Slideshow/intro.md)
     * [Hello Dojo](Slideshow/hello-dojo.md)
+    * [Dynamic Counter](Slideshow/dynamic-counter.md)
     * [What is State](Slideshow/what-is-state.md)
     * [Todo State](Slideshow/todo-state.md)
 
