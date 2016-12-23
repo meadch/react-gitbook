@@ -1,11 +1,13 @@
 # String vs. object concatenation
 
+```js
     document.getElementById('myElement').innerHTML = `
         <div>
             <h1>Hello Dojo!</h1>
             <h1>Counter: <span>${counter}</span></h1>
         </div>
     `;
+```
 
 ```js
 var myElements = React.createElement('div', null, 
