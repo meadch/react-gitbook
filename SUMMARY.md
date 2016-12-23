@@ -17,4 +17,6 @@
     * [Changing the DOM Efficiently](Slideshow/changing-the-dom-efficiently.md)
     * [String vs. Object Concatenation](Slideshow/string-vs-object-concatenation.md)
     * [Todo State](Slideshow/todo-state.md)
+    * [Declarative vs. Imperative](Slideshow/declarative-vs-imperative.md)
+    * [JSX](Slideshow/jsx.md)
 
