@@ -15,6 +15,6 @@
     * [Dynamic Counter](Slideshow/dynamic-counter.md)
     * [What is State](Slideshow/what-is-state.md)
     * [Changing the DOM Efficiently](Slideshow/changing-the-dom-efficiently.md)
-    * [Todo State](Slideshow/todo-state.md)
     * [String vs. Object Concatenation](Slideshow/string-vs-object-concatenation.md)
+    * [Todo State](Slideshow/todo-state.md)
 
