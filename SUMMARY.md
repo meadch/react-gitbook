@@ -11,6 +11,7 @@
 * [Slideshow](Slideshow/README.md)
     * [Outline](Slideshow/outline.md)
     * [Intro](Slideshow/intro.md)
+    * [Hello Dojo](Slideshow/hello-dojo.md)
     * [What is State](Slideshow/what-is-state.md)
     * [Todo State](Slideshow/todo-state.md)
 
