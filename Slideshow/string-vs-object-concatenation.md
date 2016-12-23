@@ -18,5 +18,7 @@ var myElements = React.createElement('div', null,
 ReactDOM.render(myElements, document.getElementById('react'))
 ```
 
+## Todo: Add a button that alerts the counter \`onClick\`
+
 
 
