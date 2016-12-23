@@ -2,6 +2,7 @@
 
 * \`React\` and \`ReactDOM\`
   * \`createElement\`
+* Virtual DOM
 
 
 
