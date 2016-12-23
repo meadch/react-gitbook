@@ -24,6 +24,7 @@
 9. Static values
    1. \`defaultProps\` and \`propTypes\`
 10. LifeCycle Hooks
+    1. Ajax API
 11. Working With Data
 12. Composability
 13. Multiple Counters
@@ -33,7 +34,11 @@
 
 16. \`babel\` on the server
 
-17. TicTacToe
+17. Input from the user
+
+18. Provide start value to new counter
+
+19. TicTacToe
 
 People you should follow/read
 
