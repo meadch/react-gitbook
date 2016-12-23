@@ -28,7 +28,10 @@
 12. Composability
 13. Multiple Counters
     1. Imperative vs. map
-14. TicTacToe
+14. \`create-react-app\`
+15. What does the browser see? \`bundle.js\`
+
+1. TicTacToe
 
 People you should follow/read
 
