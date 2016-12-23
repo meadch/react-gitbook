@@ -31,7 +31,9 @@
 14. \`create-react-app\`
 15. What does the browser see? \`bundle.js\`
 
-1. TicTacToe
+16. \`babel\` on the server
+
+17. TicTacToe
 
 People you should follow/read
 
