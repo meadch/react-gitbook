@@ -2,7 +2,7 @@
 
 A library for building UI
 
-## Why is it so popular?
+
 
 * React is the agent between you and the browser \(acts like a fake browser\)
 
