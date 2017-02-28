@@ -5,5 +5,7 @@
 <script src="node_modules/react-dom/dist/react-dom.js"></script>
 ```
 
+* React DevTools \(Chrome extension\)
+
 
 
