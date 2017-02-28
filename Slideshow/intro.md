@@ -5,7 +5,9 @@
 > If you've gone through MEAN, you're good to go
 
 * JavaScript
-* Node.js
+* Node.js \(familiarity with \`npm\`\)
+
+
 
 
 
