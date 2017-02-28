@@ -1,9 +1,7 @@
-# React less ugly
+# React less ugly, more declarative
 
 * JSX
 * Babel
-
-
 
 
 
