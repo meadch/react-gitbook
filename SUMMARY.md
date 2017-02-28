@@ -3,8 +3,8 @@
 ## Workshop
 
 * [Introduction](README.md)
-* [React & ReactDOM](Dependencies/react--reactdom.md)
 * [Intro](Slideshow/intro.md)
+* [React & ReactDOM](Dependencies/react--reactdom.md)
 * [5 Min Theory](Slideshow/5-min-theory.md)
 * [createElement](Slideshow/createelement.md)
 * [Todo Elements](Slideshow/todo-elements.md)
