@@ -1,4 +1,7 @@
-# \`React.createElement\`
+# createElement
+
+* \`React.createElement\`
+* \`ReactDOM.render\`
 
 
 
