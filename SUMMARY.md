@@ -14,7 +14,6 @@
   * [Two UI Strategies](Slideshow/two-ui-strategies.md)
   * [React Less Ugly](Slideshow/react-less-ugly.md)
   * [create-react-app](Slideshow/create-react-app.md)
-  * [Dynamic Counter](Slideshow/dynamic-counter.md)
   * [What is State](Slideshow/what-is-state.md)
-  * [Changing the DOM Efficiently](Slideshow/changing-the-dom-efficiently.md)
+  * [Components](Slideshow/components.md)
 
