@@ -16,4 +16,5 @@
   * [create-react-app](Slideshow/create-react-app.md)
   * [What is State](Slideshow/what-is-state.md)
   * [Components](Slideshow/components.md)
+  * [Counter](Slideshow/counter.md)
 

@@ -12,5 +12,9 @@ class MyComponent extends Component {
 }
 ```
 
+* state
+* setState
+* `props` vs. `state`
+
 
 
