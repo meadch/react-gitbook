@@ -9,7 +9,7 @@
   * [Outline](Slideshow/outline.md)
   * [Intro](Slideshow/intro.md)
   * [5 Min Theory](Slideshow/5-min-theory.md)
-  * [Declarative UI](Slideshow/declarative-ui.md)
+  * [createElement](Slideshow/createelement.md)
   * [Dynamic Counter](Slideshow/dynamic-counter.md)
   * [Hello Dojo](Slideshow/hello-dojo.md)
   * [What is State](Slideshow/what-is-state.md)
@@ -17,7 +17,7 @@
   * [String vs. Object Concatenation](Slideshow/string-vs-object-concatenation.md)
   * [Todo State](Slideshow/todo-state.md)
   * [Declarative vs. Imperative](Slideshow/declarative-vs-imperative.md)
-  * Declarative UI
+  * createElement
 
 ## Workshop
 

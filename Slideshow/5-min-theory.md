@@ -13,8 +13,14 @@ A library for building UI
 ## Remember this pattern!
 
 ```js
-function ChunkOfUI(data){
-    return UI
+function UIComponent(data){
+    return UIElement
+}
+
+// Or, for those ES6-inclined
+
+const UIComponent(data) => {
+    return UIElement
 }
 ```
 
